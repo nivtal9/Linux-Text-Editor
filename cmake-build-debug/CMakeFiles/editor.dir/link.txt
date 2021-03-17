@@ -1,0 +1,1 @@
+/usr/bin/c++  -g   CMakeFiles/editor.dir/main.cpp.o CMakeFiles/editor.dir/Editor.cpp.o CMakeFiles/editor.dir/Document.cpp.o  -o editor 
